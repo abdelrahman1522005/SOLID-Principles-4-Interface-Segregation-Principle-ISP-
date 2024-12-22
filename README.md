@@ -1,0 +1,1 @@
+# SOLID-Principles-4-Interface-Segregation-Principle-ISP-
